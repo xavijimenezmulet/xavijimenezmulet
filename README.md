@@ -2,7 +2,7 @@
 
 I am Xavier Jimenez, people call me Xavi. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/xavier-jiménez-mulet-7220a9181/)
+[![Linkedin Badge](https://img.shields.io/badge/-xavijimenezmulet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xavier-jiménez-mulet-7220a9181/)](https://www.linkedin.com/in/xavier-jiménez-mulet-7220a9181/)
 [![Medium Badge](https://img.shields.io/badge/-@xavijimenezmulet-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@xavijimenezmulet/)](https://medium.com/@xavijimenezmulet)
 [![Gmail Badge](https://img.shields.io/badge/-xavijimenezmulet@macaqueconsulting.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xavijimenezmulet@macaqueconsulting.com)](mailto:xavijimenezmulet@macaqueconsulting.com)
 
