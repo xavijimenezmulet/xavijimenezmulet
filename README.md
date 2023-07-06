@@ -10,6 +10,7 @@ I am Xavier Jimenez, people call me Xavi. I am a tech enthusiast & an open-sourc
 
 ## ⚡ Technologies
 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
