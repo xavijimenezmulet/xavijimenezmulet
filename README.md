@@ -49,3 +49,4 @@ I am Xavier Jimenez, people call me Xavi. I am a tech enthusiast & an open-sourc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavijimenezmulet&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xavijimenezmulet.xavijimenezmulet)
+
